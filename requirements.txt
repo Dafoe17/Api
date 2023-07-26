@@ -1,0 +1,4 @@
+pandas~=1.4.2
+requests~=2.27.1
+setuptools~=65.5.0
+pyodbc~=4.0.39
